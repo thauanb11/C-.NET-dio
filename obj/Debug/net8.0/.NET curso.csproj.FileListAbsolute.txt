@@ -1,0 +1,14 @@
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.AssemblyInfoInputs.cache
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.AssemblyInfo.cs
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\.NET curso\bin\Debug\net8.0\.NET curso.exe
+C:\Users\Usuário\.NET curso\bin\Debug\net8.0\.NET curso.deps.json
+C:\Users\Usuário\.NET curso\bin\Debug\net8.0\.NET curso.runtimeconfig.json
+C:\Users\Usuário\.NET curso\bin\Debug\net8.0\.NET curso.dll
+C:\Users\Usuário\.NET curso\bin\Debug\net8.0\.NET curso.pdb
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.dll
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\refint\.NET curso.dll
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.pdb
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\.NET curso.genruntimeconfig.cache
+C:\Users\Usuário\.NET curso\obj\Debug\net8.0\ref\.NET curso.dll
